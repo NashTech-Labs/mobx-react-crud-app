@@ -1,0 +1,13 @@
+.todo {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    margin-bottom: 3px;
+}
+.title {
+    margin: 0 5px;
+    width: 100%;
+    border: 0;
+    padding: 2px;
+    border-radius: 5px;
+}
